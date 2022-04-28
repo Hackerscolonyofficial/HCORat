@@ -1,9 +1,13 @@
 # HCORat
 
-An Android Monitoring tool
+An Android Monitoring tool - only for non rooted device
 
 ***
-
+#### Auto Installation Command
+```
+git clone https://github.com/Hackerscolonyofficial/HCORat; cd HCORat; bash setup
+```
+### Manually Installation Commands
 ***
 🖐
 👇
