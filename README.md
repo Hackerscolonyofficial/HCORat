@@ -36,6 +36,8 @@ bash setup
 ```
 ⏬
 ***
+### Point to be noted for both auto and manully installation
+
 ##### After installation tool will run as localhost:22533 due to apkmod we have to reconfigure apktool by command
 👇
 ***
