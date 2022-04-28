@@ -3,10 +3,7 @@
 An Android Monitoring tool - only for non rooted device
 
 ***
-#### Auto Installation Command
-```
-git clone https://github.com/Hackerscolonyofficial/HCORat; cd HCORat; bash setup
-```
+
 ### Manually Installation Commands
 ***
 🖐
@@ -36,6 +33,21 @@ bash setup
 ```
 ⏬
 ***
+#### then open new session
+```
+bash main
+```
+***
+#### Auto Installation Command
+```
+git clone https://github.com/Hackerscolonyofficial/HCORat; cd HCORat; bash setup
+```
+#### then open new session
+```
+bash main
+```
+***
+
 ### Point to be noted for both auto and manully installation
 
 ##### After installation tool will run as localhost:22533 due to apkmod we have to reconfigure apktool by command
